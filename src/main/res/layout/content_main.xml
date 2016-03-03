@@ -16,5 +16,13 @@
     <TextView
         android:text="Hello World!"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This is a test project for Github Commit"
+        android:layout_centerInParent="true"
+        />
 </RelativeLayout>
